@@ -20,6 +20,7 @@ Je leert hoe je User Flow kan tekenen in een Wireflow.
 
 <img width="1355" alt="image" src="https://github.com/fdnd-task/fix-the-flow-wireflow/assets/1391509/2770bc90-9b92-4a16-8b5f-32efcd3b8027">
 
+<img width="1262" alt="image" src="https://github.com/fdnd-task/fix-the-flow-wireflow/assets/1391509/53a836a2-6592-4c9a-bc80-8a5e98ee92e0">
 
 
 Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [test](#testen) fase van de DLC.
