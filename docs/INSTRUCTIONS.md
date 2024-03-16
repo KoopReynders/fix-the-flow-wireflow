@@ -1,7 +1,7 @@
 
-# Fix the Flow - Wireflow
+# Wireflow
 
-Opdracht: Teken een Wireflow van een interactief element
+Teken een Wireflow van een interactief element
 
 ## Context
 
